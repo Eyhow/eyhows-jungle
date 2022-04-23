@@ -1,0 +1,228 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-size: cover;
+    background-repeat: inherit;
+    background-position: center;
+    background-color: rgb(255, 255, 255);
+}
+
+
+header {
+    height: 260px;
+    border-radius:  100px 100px 0px 0px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+nav {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 6px;
+    border-radius: 50px 50px 50px 50px;
+}
+
+main {
+    height: 500px; 
+    background-color: #ffffffe3;
+    padding-top: 1px;  
+    padding-left: 50px;
+    padding-right: 50px;
+    display: block;
+    border-radius: 50px 50px 0px 0px ;
+
+}
+
+footer {
+    background-color: #000000;
+    height: 130px;
+    border-radius:   0px 0px 50px 50px;
+    text-align: center;
+}
+
+.navig{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #FFFF;
+    text-decoration: none;
+    font-size: small;
+    text-align: center;
+
+}
+
+.copyright{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+
+}
+
+.logosite {
+    width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+
+.NavButton {
+    width: 250px;
+}
+
+.titreilus{
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 40px;
+}
+
+.classe_illu p{
+    color: aliceblue;
+    text-align: justify;
+    padding-right: 50px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.classe_illu {
+    background-color: #000000;
+    padding-bottom: 70px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    text-align: right;
+    border-radius: 80px;
+}
+
+.groupe_illu{
+    display: flex;
+}
+.titreid{
+    width: 90%;
+}
+
+.classe_id p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.classe_id {
+    padding-bottom: 70px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    text-align: left;
+    border-radius: 80px;
+}
+
+
+
+.classe_motion p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.classe_motion {
+    padding-bottom: 70px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    text-align: left;
+    border-radius: 80px;
+}
+
+
+.titremotion {
+    padding: 30px;
+    width:50%;
+    text-align: center;
+}
+
+.titre3d{
+    width: 50%;
+    padding: 10px;
+    padding-bottom: 40px;
+}
+
+.classe_3d p{
+    color: aliceblue;
+    text-align: justify;
+    padding-right: 50px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.classe_3d {
+    background-color: #000000;
+    padding-bottom: 70px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    text-align: right;
+    border-radius: 80px;
+}
+
+.classe_web p{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    padding-left: 50px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.classe_web {
+    padding-bottom: 70px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 20px;
+    text-align: left;
+    border-radius: 80px;
+}
+
+
+.titreweb {
+    padding-top: 0px;
+    width:80%;
+    text-align: center;
+}
+
+.en_savoir_plus{
+    width: 60%;
+}
+
+.classe_id p .en_savoir_plus{
+   padding-left: 120px;
+   padding-top: 50px;
+}
+
+.en_savoir_plus_gauche{
+    width: 60%;
+}
+
+.classe_illu p .en_savoir_plus_gauche{
+   padding-left: 120px;
+   padding-top: 50px;
+}
+
+.en_savoir_plus_web{
+    width: 60%;
+    padding-left: 120px;
+    padding-top: 50px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+video {
+    border-radius: 60px;
+}
